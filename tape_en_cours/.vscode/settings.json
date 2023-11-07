@@ -10,4 +10,7 @@
         "--profile",
         "black"
     ],
+    "cSpell.words": [
+        "fizzbuzz"
+    ],
 }
