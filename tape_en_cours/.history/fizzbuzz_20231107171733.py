@@ -20,4 +20,4 @@ for number in range(1, 101):
     if not res:
         res = str(number)
 
-    print(res)
+    print(number, res)
