@@ -1,8 +1,8 @@
 print(2 + 2)
 
 A = 2
-B = 2
-match A, B:
+b = 2
+match A, b:
     case 0, 0:
         print("1")
     case 1, 1:
