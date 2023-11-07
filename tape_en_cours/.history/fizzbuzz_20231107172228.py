@@ -21,4 +21,5 @@ def fizz_buzz_2():
             res += "bazz"
         if not res:
             res = str(number)
+
         print(res)
