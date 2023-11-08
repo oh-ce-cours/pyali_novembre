@@ -48,8 +48,7 @@ def fizz_buzz_3():
 
 
 def main():
-    a = 2
-    fizz_buzz_3(a)
+    fizz_buzz_3()
 
 
 if __name__ == "__main__":
