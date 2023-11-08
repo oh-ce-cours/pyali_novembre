@@ -1,4 +1,4 @@
-import scripts.fizzbuzz
+import fizzbuzz
 
 
 def test_fizzbuzz_1_fizz():
