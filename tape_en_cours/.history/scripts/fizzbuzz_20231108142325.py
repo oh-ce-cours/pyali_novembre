@@ -48,4 +48,4 @@ def fizz_buzz_3():
 
 
 fizz_buzz_3()
-v = 2
+i = 2
