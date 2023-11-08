@@ -48,3 +48,6 @@ def fizz_buzz_3():
 
 
 fizz_buzz_3()
+
+
+print("".join("1"))
