@@ -4,7 +4,7 @@ def fizzbuzz_1():
         print(res)
 
 
-def fizzbuzz_1_for_number(number: int) -> str:
+def fizzbuzz_1_for_number(number):
     res = ""
     if number % 3 == 0 and number % 5 == 0:
         res = "fizzbuzz"
