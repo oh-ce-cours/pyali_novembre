@@ -8,7 +8,7 @@ def fizzbuzz_1_for_number(number):
     if number % 3 == 0 and number % 5 == 0:
         res = "fizzbuzz"
     elif number % 3 == 0:
-        res = "fizz"
+        print("fizz")
     elif number % 5 == 0:
         print("buzz")
     else:
